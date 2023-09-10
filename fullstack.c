@@ -7,7 +7,7 @@ int top=-1;
 void push();
 void pop();
 void show();
-int main()
+void main()
 {
     int choice;
     while(1)
